@@ -1,0 +1,42 @@
+body{
+  background-color: pink;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
+  border: 20px solid gray;
+}
+.indentedText{
+  border-left: 3px solid gray;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 1%;
+  font-family: Modern Antiqua;
+  color: #a3c6ff;
+  background-color: #717477;
+}
+
+p{
+  margin-left: 2%;
+  margin-right: 2%;
+  font-family: Modern Antiqua;
+}
+
+h1{
+  margin-left: 2%;
+  margin-right: 2%;
+  font-family: Do Hyeon;
+  letter-spacing: .2rem;
+  font-weight: 300;
+}
+
+.date{
+  color: blue;
+  letter-spacing: .3rem;
+  text-transform: uppercase;
+}
+
+hr.style-four {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
